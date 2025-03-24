@@ -1,0 +1,23 @@
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+.time :nth-child(1) {
+    color: #d0d0d0;
+  }
+
+.time :nth-child(2) {
+        color: #ffffff;
+}
+
+.button {
+    cursor: pointer;
+  }
+
+.button img {
+  width: 30px;
+  height: 30px;
+}
